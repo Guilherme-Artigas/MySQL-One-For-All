@@ -64,7 +64,7 @@ VALUES
 CREATE TABLE SpotifyClone.musicas(
 	musicas_id INTEGER AUTO_INCREMENT PRIMARY KEY NOT NULL,
     albuns_id INTEGER NOT NULL,
-    FOREIGN KEY (albuns_id) REFERENCES SpotifyClone.albuns (albuns_id),
+    FOREIGN KEY (albuns_id) REFERENCES albuns (albuns_id),
     nome_musica VARCHAR(255) NOT NULL UNIQUE,
     duracao_seg INT
 ) ENGINE = InnoDB;
@@ -100,11 +100,11 @@ VALUES
 (3, 2, '2020-12-05 18:38:30'),
 (4, 8, '2021-08-15 17:10:10'),
 (5, 8, '2022-01-09 01:44:33'),
-(5, 7, '2020-08-06 15:23:43'),
+(5, 5, '2020-08-06 15:23:43'),
 (6, 7, '2017-01-24 00:31:17'),
 (6, 1, '2017-10-12 12:35:20'),
-(7, 5, '2011-12-15 22:30:49'),
-(8, 5, '2012-03-17 14:56:41'),
+(7, 4, '2011-12-15 22:30:49'),
+(8, 4, '2012-03-17 14:56:41'),
 (9, 9, '2022-02-24 21:14:22'),
 (10, 3, '2015-12-13 08:30:22');
 CREATE TABLE SpotifyClone.seguindo_artistas(
