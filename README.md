@@ -1,10 +1,23 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto One For All ⚔️
+
+Bem vindo ao repositório do **Projeto One For All**
+
+Esse projeto foi desenvolvido com o prazo de **2** dias e com **6** meses de curso.
+
+## Aprendizados
+
+Consolidando conhecimentos adquiridos durante as aulas, hoje me considero um profissional melhor preparado para entregar resultados mais especificos utilizando o **SQL**, algumas das minhas skills são:
+- IF, CASE;
+- Manipulação de strings;
+- Funções de agregação
+- Tipos de JOIN diferentes
+- Modelar um banco de dados;
+- Identificar entidades, atributos e relacionamentos;
+- Construir um diagrama ER;
+- Normalizar um banco seguindo as formas normais.
+
+## Tecnologias utilizadas
+
+- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+Obrigado por visitar! <3
